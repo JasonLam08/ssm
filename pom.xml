@@ -7,6 +7,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>ssm Maven Webapp</name>
   <url>http://maven.apache.org</url>
+  =====================================================================================
   <!-- 属性: 定义版本的常量,方便修改 -->
 	<properties>
 		<!-- 名称是任意的,建议使用有意义的名字 -->
